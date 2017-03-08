@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+
+}
+.time{
+    color: #9e9e9e;
+    font-family: 'Raleway', sans-serif;
+    font-size: 58px;
+
+}
+body {
+    background-color: #1e2e3e;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.message{
+    font-family: 'Ubuntu', sans-serif;
+    color: #7e7e7e;
+    font-size: 75px;
+    text-align: center;
+    width: 60%;
+    max-width: 650px;
+    margin: 0 auto;
+    margin-top: 150px;
+
+}
+
+.bgmorning{
+    background-image: url("../img/1.png")
+}
+
+.bgafternoon{
+    background-image: url("../img/2.png")
+}
+
+.bgevening{
+    background-image: url("../img/3.png")
+}
+
+.bgnight{
+    background-image: url("../img/4.png")
+}
+
+#seconds{
+    display: none;
+}
